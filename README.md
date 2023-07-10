@@ -1,2 +1,2 @@
 # mygitactions
-Github actions demo
+GitHub actions demo
